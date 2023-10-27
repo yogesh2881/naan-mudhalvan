@@ -1,1 +1,11 @@
+1.Dashboard Link :
+https://eu1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FData%2BModule%2FOlympic%2BEvent%2Bdash&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018b6a9b28d5_00000002
 
+2.Story Link :
+https://eu1.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FData%2BModule%2FOlympic%2BSports%2BStory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018b6d118c46_00000002&amp;sceneTime=12000
+
+3.Report Link :
+https://eu1.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FReport%2FOlympic%2BSports%2BReport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false
+
+4.Demo video Link :
+https://drive.google.com/file/d/1wm-zToo8C7cKfreRc_pb1Byi3tHwe-9Y/view?usp=sharing
